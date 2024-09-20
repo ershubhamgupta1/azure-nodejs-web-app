@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 
 // Serve a simple response
 app.get('/', (req, res) => {
-  res.send('Hello, Azure !!!!!');
+  res.send('Hello, Azure !!!!!!!!');
 });
 
 app.get('/user', (req, res) => {
