@@ -1,0 +1,1 @@
+This Project is for setting up the ci/cd pipeline using github actions workflow to deploy nodejs web app in azure web app service.
